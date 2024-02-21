@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Rei',
+	name: 'Divija',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'TryHackMe',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://tryhackme.com/dashboard',
 		},
 		{
 			id: '6',
@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'HackerNews',
+					link: 'https://thehackernews.com',
 				},
 				{
 					name: 'Spotify',
 					link: 'https://www.spotify.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Lms',
+					link: 'https://lms.nmamit.in',
 				},
 			],
 		},
