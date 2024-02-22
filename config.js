@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Hax0r',
-					link: 'https://divija027.github.io/hax0r',
+					link: 'https://divija027.github.io/hax0r/',
 				},
 				{
 					name: 'LinkedIn',
