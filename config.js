@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Hax0r',
+					link: 'https://divija027.github.io/hax0r',
 				},
 				{
-					name: 'HackerNews',
-					link: 'https://thehackernews.com',
+					name: 'LinkedIn',
+					link: 'https://www.linkedin.com/feed/',
 				},
 				{
 					name: 'Spotify',
