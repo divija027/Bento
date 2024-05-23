@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'HackTheBox',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://academy.hackthebox.com/dashboard',
 		},
 		{
 			id: '4',
