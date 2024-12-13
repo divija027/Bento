@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'TryHackMe',
+			name: 'Whatsappweb',
 			icon: 'glasses',
-			link: 'https://tryhackme.com/dashboard',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '6',
